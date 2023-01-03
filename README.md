@@ -15,6 +15,7 @@ pour regler ce probleme on a executer la commande airflow scheduler dans notre t
 
 tout est bien maintenent , on peut executer notre dag sans probleme !
 comme vous voyer ci dessous : Airflow UI , notre dag qui s'appelle anas est en mode on :
+
 ![Dags nommé (anas) is on ](https://github.com/anasdaghai98/airflow/blob/main/dags%20on.JPG)
 
 en cliquent sur notre dag >> graph >> vous voyer ici notre tasks : 
