@@ -24,6 +24,7 @@ comme vous voyer dans l'image notre process commence par start puis il execute n
 et a la fin le processus end qui indique que c'est le dernier process qui sera executer dans notre dag
 et pour voir si notre code s'execute chaque 5 second , on cliquent sur schedule en haut de la page , il nous affiche cette liste d'execution , 
 comme vous voyer ci dessous dans la date d'execution , chaque 5 sec il execute notre code :
+
 ![Scheduler executed succesfully](https://github.com/anasdaghai98/airflow/blob/main/each%205%20sec%20succesfully.JPG)
 
 et si notre code est executer et que il y'a pas d'erreur , on vas verifier notre fichier log , 
